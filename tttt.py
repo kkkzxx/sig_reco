@@ -5,6 +5,7 @@ __author__ = 'kongzixiang'
 
 import os
 
+a='sss'
 dataset_path='./signatures/'
 name='bjy/'
 name_path=dataset_path+name
