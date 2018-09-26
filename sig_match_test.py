@@ -14,12 +14,14 @@ from tf_cnn_model import TF_CNNModel
 from preprocess.normalize import preprocess_signature
 import warnings
 from preprocess.img_thre_and_cut import thre_and_cut
+from preprocess.dateset_mode_convert import dataset_img_convert
 
 warnings.filterwarnings("ignore")
 
 model_weight_path = 'models/signetf_lambda0.95.pkl'
 dataset_path='./signatures/'
 model = TF_CNNModel(tf_signet, model_weight_path)
+dataset_img_convert(dataset_path)
 
 def get_imgpath_and_labels(path):
     cate = [path + x for x in os.listdir(path) if os.path.isdir(path + x)]

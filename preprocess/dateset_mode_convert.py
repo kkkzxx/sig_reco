@@ -6,7 +6,9 @@ def dataset_img_convert(path):
         for file in dirs:
             for image in os.listdir(path+file):
                 img=Image.open(path+file+'/'+image)
-                img = img.convert('L')
+                if img.mode!='L':
+                    # print(img.mode)
+                    img = img.convert('L')
                 img=img.resize((220,170))
                 img.save(path+file+'/'+image)
 

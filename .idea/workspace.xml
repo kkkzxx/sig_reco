@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c28dda8-e606-4a3e-b6df-fd6187e087e7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/preprocess/dateset_mode_convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/preprocess/dateset_mode_convert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sig_match_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/sig_match_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/bjy/2_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/bjy/2_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/bjy/2_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/bjy/2_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/bjy/2_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/bjy/2_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/bjy/2_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/bjy/2_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/chn/4_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/chn/4_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/chn/4_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/chn/4_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/chn/4_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/chn/4_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/chn/4_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/chn/4_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/cl/6_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/cl/6_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/cl/6_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/cl/6_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/cl/6_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/cl/6_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/cl/6_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/cl/6_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/czb/5_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/czb/5_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/czb/5_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/czb/5_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/dmx/8_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/dmx/8_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/dmx/8_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/dmx/8_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/gtl/13_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/gtl/13_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/gtl/13_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/gtl/13_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/gtl/13_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/gtl/13_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/gtx/3_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/gtx/3_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/gtx/3_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/gtx/3_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/gtx/3_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/gtx/3_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/gtx/3_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/gtx/3_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/gxs/7_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/gxs/7_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/gxs/7_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/gxs/7_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/gxs/7_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/gxs/7_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/gxs/7_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/gxs/7_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/jsy/1_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/jsy/1_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/jsy/1_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/jsy/1_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/jsy/1_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/jsy/1_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/jsy/1_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/jsy/1_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/jwm/微信图片_20180912150020.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/jwm/微信图片_20180912150020.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/jzz/15_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/jzz/15_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/jzz/15_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/jzz/15_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/jzz/15_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/jzz/15_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/jzz/15_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/jzz/15_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/kzx/kzx1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/kzx/kzx1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/lcg/2_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/lcg/2_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/lcg/2_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/lcg/2_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/lh/lh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/lh/lh.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/lrh/1125_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/lrh/1125_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/lrh/1125_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/lrh/1125_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/lx/8_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/lx/8_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/lx/8_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/lx/8_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/ly/7_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/ly/7_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/ly/7_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/ly/7_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/lyc/1123_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/lyc/1123_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/lyc/1123_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/lyc/1123_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/lys/微信图片_20180912162314.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/lys/微信图片_20180912162314.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/lzs/1123_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/lzs/1123_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/lzs/1123_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/lzs/1123_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/mht/10_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/mht/10_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/mht/10_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/mht/10_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/mht/10_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/mht/10_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/mht/10_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/mht/10_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/mww/微信截图_20180912163920.png" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/mww/微信截图_20180912163920.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/sts/5_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/sts/5_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/sts/5_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/sts/5_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/sts/5_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/sts/5_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/sts/5_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/sts/5_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/wf/8_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/wf/8_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/wf/8_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/wf/8_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/wxz/7_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/wxz/7_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/wxz/7_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/wxz/7_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/wyf/8_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/wyf/8_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/wyf/8_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/wyf/8_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/wyf/8_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/wyf/8_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/wyf/8_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/wyf/8_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/wyt/1124_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/wyt/1124_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/wyt/1124_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/wyt/1124_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/wyx/微信图片_20180912154904.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/wyx/微信图片_20180912154904.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/xjt/12_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/xjt/12_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/xjt/12_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/xjt/12_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/xjt/12_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/xjt/12_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/xjt/12_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/xjt/12_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/xxc/7_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/xxc/7_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/xxc/7_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/xxc/7_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/xzq/1125_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/xzq/1125_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/xzq/1125_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/xzq/1125_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zgr/1124_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zgr/1124_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zgr/1124_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zgr/1124_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zhj/1126_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zhj/1126_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zhj/1126_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zhj/1126_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zjf/微信图片_20180912162823.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zjf/微信图片_20180912162823.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zjl/9_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zjl/9_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zjl/9_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zjl/9_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zjl/9_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zjl/9_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zjl/9_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zjl/9_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zrf/11_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zrf/11_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zrf/11_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zrf/11_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zrf/11_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zrf/11_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zrf/11_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zrf/11_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zxy/14_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zxy/14_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zxy/14_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zxy/14_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zxy/14_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zxy/14_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zxy/14_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zxy/14_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zyj/1126_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zyj/1126_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zyj/1126_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zyj/1126_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zzq/0_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zzq/0_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zzq/0_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zzq/0_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zzq/0_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zzq/0_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signatures/zzq/0_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/signatures/zzq/0_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180912163621.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180912163912.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180912163925.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180912163937.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180912163947.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180917104310.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180917104326.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180917104748.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180917104805.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180917104817.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180917104831.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180917171208.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180917171222.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180917171231.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/微信截图_20180917171239.png" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/signature_recognition$sample_enhance.coverage" NAME="sample_enhance Coverage Results" MODIFIED="1537931738669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/signature-recoginaton-master" />
+    <SUITE FILE_PATH="coverage/signature_recognition$sig_match_test.coverage" NAME="sig_match_test Coverage Results" MODIFIED="1537931892074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/signature_recognition$dateset_mode_convert.coverage" NAME="dateset_mode_convert Coverage Results" MODIFIED="1537930690221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/preprocess" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="dateset_mode_convert.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/preprocess/dateset_mode_convert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="E:/signature-recoginaton-master/sample_enhance.py" />
+        <option value="$PROJECT_DIR$/sig_match_test.py" />
+        <option value="$PROJECT_DIR$/preprocess/dateset_mode_convert.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="signature_recognition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="signature_recognition" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="signature_recognition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="signature_recognition" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="signature_recognition" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="signature_recognition" type="b2602c69:ProjectViewProjectNode" />
+              <item name="signature_recognition" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="signature_recognition" type="462c0819:PsiDirectoryNode" />
+              <item name="preprocess" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="E:/signature-recoginaton-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.sample_enhance">
+    <configuration name="dateset_mode_convert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="signature_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/preprocess" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/preprocess/dateset_mode_convert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sample_enhance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="signature_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/signature-recoginaton-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/signature-recoginaton-master/sample_enhance.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="sig_match_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="signature_recognition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sig_match_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.sig_match_test" />
+      <item itemvalue="Python.sample_enhance" />
+      <item itemvalue="Python.dateset_mode_convert" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sig_match_test" />
+        <item itemvalue="Python.sample_enhance" />
+        <item itemvalue="Python.dateset_mode_convert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c28dda8-e606-4a3e-b6df-fd6187e087e7" name="Default" comment="" />
+      <created>1537929662179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537929662179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.42653352" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.2853067" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test_imgs2/8_6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/9_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/711_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/1125_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180917104748.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180917171239.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180917171231.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180917171222.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180917171208.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180917104831.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180917104817.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180917104805.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180917104326.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocess/img_thre_and_cut.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sig_match_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="23" column="33" lean-forward="true" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="33" />
+          <folding>
+            <element signature="e#60#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img_process.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/8_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/3_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/5_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/1_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/8_4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/1126_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/1125_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/1124_6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/1124_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/1123_6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/1123_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/118_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/15_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/14_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/13_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/12_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/11_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/10_0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信图片_20180912162827.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180912163621.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180912163912.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信图片_20180912162318.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信图片_20180912155313.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信图片_20180912153248.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信图片_20180912145325.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/1126_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180912163947.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180917104310.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180912163925.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_imgs2/微信截图_20180912163937.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://E:/signature-recoginaton-master/sample_enhance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocess/dateset_mode_convert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
