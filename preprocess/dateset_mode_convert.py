@@ -10,3 +10,5 @@ def dataset_img_convert(path):
                 img=img.resize((220,170))
                 img.save(path+file+'/'+image)
 
+# path=r'C:\Users\kongzixiang\Desktop\signature_recognition\signatures/'
+# dataset_img_convert(path)
